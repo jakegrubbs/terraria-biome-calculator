@@ -35,7 +35,7 @@ while (True):
     print(f"Bottom left: {readableOutput(borderLeft, borderLower)}")
     print(f"Bottom right: {readableOutput(borderRight, borderLower)}\n")
 
-    print("Now, placed the desired biome block directly above each platform.")
+    print("Now, place the desired biome block directly above each platform.")
     print("Place the remaining blocks within this rectangle.")
     print(f"If done correctly, your artificial biome will be centered on {readableOutput(posHorizontal, posVertical)}.")
 
